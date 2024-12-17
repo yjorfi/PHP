@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php include "navbar.php";?>
-    <?php include "footer.php";?>
     <h1>Homepagina</h1>
+    <?php include "footer.php";?>
 </body>
 </html>
