@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>about pagina</h1>
-</body>
+<?php include "navbar.php";?>
+<h1>about pagina</h1>
+<?php include "footer.php";?></body>
 </html>

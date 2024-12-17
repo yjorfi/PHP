@@ -6,11 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-    include "about.php";
-    ?>
-    <?php
-    include "contact.php";
-    ?>
+    <?php include "navbar.php";?>
+    <?php include "footer.php";?>
+    <h1>Homepagina</h1>
 </body>
 </html>

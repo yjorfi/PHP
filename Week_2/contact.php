@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>contact pagina</h1>
+<?php include "navbar.php";?>
+<h1>contact pagina</h1>
+<?php include "footer.php";?>
 </body>
 </html>
