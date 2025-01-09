@@ -2,7 +2,7 @@
 $dobbelsteen = rand(1, 6);
 
 if ($dobbelsteen >= 4) {
-    echo "Gefeliciteerd! Je hebt gewonnen!";
+    echo "Je wint 🥳";
 } else {
-    echo "Helaas, je hebt verloren. Probeer het nog eens!";
+    echo "Je hebt verloren";
 }
