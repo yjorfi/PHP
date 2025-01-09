@@ -1,5 +1,4 @@
-
-    <nav>
+<nav>
     <ul>
     <li> <a href="./index.php"></a></li>
     <li> <a href="./about.php"></a></li>
